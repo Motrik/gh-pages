@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>https://motrik.github.io/gh-pages</title>
+    <link href="https://motrik.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://motrik.github.io/gh-pages" />
+    <updated>2019-04-14T15:49:54+01:00</updated>
+    <author>
+        <name>tiago</name>
+    </author>
+    <id>https://motrik.github.io/gh-pages</id>
+
+    <entry>
+        <title>isto é o título Copy</title>
+        <author>
+            <name>tiago</name>
+        </author>
+        <link href="https://motrik.github.io/gh-pages/isto-e-o-titulo-copy.html"/>
+        <id>https://motrik.github.io/gh-pages/isto-e-o-titulo-copy.html</id>
+
+        <updated>2019-04-14T15:39:11+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://motrik.github.io/gh-pages/media/posts/2/lord-sith.jpg" alt="" />
+                    Olá! Isto foi feito no Publii...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://motrik.github.io/gh-pages/media/posts/2/lord-sith.jpg" alt="" />
+                <strong>Olá! Isto foi feito no Publii...</strong>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>isto é o título</title>
+        <author>
+            <name>tiago</name>
+        </author>
+        <link href="https://motrik.github.io/gh-pages/isto-e-o-titulo.html"/>
+        <id>https://motrik.github.io/gh-pages/isto-e-o-titulo.html</id>
+
+        <updated>2019-04-14T15:40:16+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://motrik.github.io/gh-pages/media/posts/1/ATPM-acrilico-3.jpg" alt="" />
+                    Olá! Isto foi feito no Publii...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://motrik.github.io/gh-pages/media/posts/1/ATPM-acrilico-3.jpg" alt="" />
+                <strong>Olá! Isto foi feito no Publii...</strong>
+            ]]>
+        </content>
+    </entry>
+</feed>
