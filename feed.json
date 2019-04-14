@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://motrik.github.io/gh-pages/3d-rendering.html",
+            "url": "https://motrik.github.io/gh-pages/3d-rendering.html",
+            "title": "3D rendering",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://motrik.github.io/gh-pages/media/posts/3/gallery/lookandfeel2_1.png\" ><img src=\"https://motrik.github.io/gh-pages/media/posts/3/gallery/lookandfeel2_1-thumbnail.png\" alt=\"\" width=\"768\" height=\"983\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://motrik.github.io/gh-pages/media/posts/3/gallery/lookandfeel2.png\" ><img src=\"https://motrik.github.io/gh-pages/media/posts/3/gallery/lookandfeel2-thumbnail.png\" alt=\"\" width=\"768\" height=\"983\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://motrik.github.io/gh-pages/media/posts/3/gallery/lookandfeel1.png\" ><img src=\"https://motrik.github.io/gh-pages/media/posts/3/gallery/lookandfeel1-thumbnail.png\" alt=\"\" width=\"768\" height=\"983\"></a></figure>\n</div>",
+            "image": "https://motrik.github.io/gh-pages/media/posts/3/lookandfeel2_1.png",
+            "author": {
+                "name": "tiago"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-04-15T00:00:48+01:00",
+            "date_modified": "2019-04-15T00:00:48+01:00"
+        },
+        {
             "id": "https://motrik.github.io/gh-pages/isto-e-o-titulo-copy.html",
             "url": "https://motrik.github.io/gh-pages/isto-e-o-titulo-copy.html",
             "title": "isto é o título Copy",
