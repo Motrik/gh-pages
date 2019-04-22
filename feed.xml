@@ -3,12 +3,113 @@
     <title>gh-pages</title>
     <link href="https://motrik.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://motrik.github.io/gh-pages" />
-    <updated>2019-04-15T12:38:41+01:00</updated>
+    <updated>2019-04-22T11:03:34+01:00</updated>
     <author>
         <name>Tiago</name>
     </author>
     <id>https://motrik.github.io/gh-pages</id>
 
+    <entry>
+        <title>jnkjnn</title>
+        <author>
+            <name>Tiago</name>
+        </author>
+        <link href="https://motrik.github.io/gh-pages/jnkjnn.html"/>
+        <id>https://motrik.github.io/gh-pages/jnkjnn.html</id>
+
+        <updated>2019-04-22T00:39:03+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>THING 5</title>
+        <author>
+            <name>Tiago</name>
+        </author>
+        <link href="https://motrik.github.io/gh-pages/thing-5.html"/>
+        <id>https://motrik.github.io/gh-pages/thing-5.html</id>
+
+        <updated>2019-04-22T00:36:04+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://motrik.github.io/gh-pages/media/posts/5/12-cycles.png" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://motrik.github.io/gh-pages/media/posts/5/gallery/10.png" ><img src="https://motrik.github.io/gh-pages/media/posts/5/gallery/10-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://motrik.github.io/gh-pages/media/posts/5/gallery/11-eevee.png" ><img src="https://motrik.github.io/gh-pages/media/posts/5/gallery/11-eevee-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://motrik.github.io/gh-pages/media/posts/5/gallery/12-cycles.png" ><img src="https://motrik.github.io/gh-pages/media/posts/5/gallery/12-cycles-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://motrik.github.io/gh-pages/media/posts/5/gallery/12-eevee.png" ><img src="https://motrik.github.io/gh-pages/media/posts/5/gallery/12-eevee-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://motrik.github.io/gh-pages/media/posts/5/gallery/13-eevee.png" ><img src="https://motrik.github.io/gh-pages/media/posts/5/gallery/13-eevee-thumbnail.png" alt="" width="768" height="1242"></a></figure>
+<figure class="gallery__item"><a href="https://motrik.github.io/gh-pages/media/posts/5/gallery/14-cycles.png" ><img src="https://motrik.github.io/gh-pages/media/posts/5/gallery/14-cycles-thumbnail.png" alt="" width="768" height="1243"></a></figure>
+<figure class="gallery__item"><a href="https://motrik.github.io/gh-pages/media/posts/5/gallery/14-eevee.png" ><img src="https://motrik.github.io/gh-pages/media/posts/5/gallery/14-eevee-thumbnail.png" alt="" width="768" height="1242"></a></figure>
+<figure class="gallery__item"><a href="https://motrik.github.io/gh-pages/media/posts/5/gallery/15-eevee.png" ><img src="https://motrik.github.io/gh-pages/media/posts/5/gallery/15-eevee-thumbnail.png" alt="" width="768" height="1242"></a></figure>
+<figure class="gallery__item"><a href="https://motrik.github.io/gh-pages/media/posts/5/gallery/16-eevee.png" ><img src="https://motrik.github.io/gh-pages/media/posts/5/gallery/16-eevee-thumbnail.png" alt="" width="768" height="1242"></a></figure>
+<figure class="gallery__item"><a href="https://motrik.github.io/gh-pages/media/posts/5/gallery/17-eevee.png" ><img src="https://motrik.github.io/gh-pages/media/posts/5/gallery/17-eevee-thumbnail.png" alt="" width="768" height="1242"></a></figure>
+<figure class="gallery__item"><a href="https://motrik.github.io/gh-pages/media/posts/5/gallery/18-eevee.png" ><img src="https://motrik.github.io/gh-pages/media/posts/5/gallery/18-eevee-thumbnail.png" alt="" width="768" height="1242"></a></figure>
+<figure class="gallery__item"><a href="https://motrik.github.io/gh-pages/media/posts/5/gallery/19-eevee.png" ><img src="https://motrik.github.io/gh-pages/media/posts/5/gallery/19-eevee-thumbnail.png" alt="" width="768" height="1242"></a></figure>
+<figure class="gallery__item"><a href="https://motrik.github.io/gh-pages/media/posts/5/gallery/24-eevee.png" ><img src="https://motrik.github.io/gh-pages/media/posts/5/gallery/24-eevee-thumbnail.png" alt="" width="768" height="1242"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>THING 4</title>
+        <author>
+            <name>Tiago</name>
+        </author>
+        <link href="https://motrik.github.io/gh-pages/thing-4.html"/>
+        <id>https://motrik.github.io/gh-pages/thing-4.html</id>
+
+        <updated>2019-04-15T12:44:40+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://motrik.github.io/gh-pages/media/posts/4/interior-PROCEDURAL-5.png" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://motrik.github.io/gh-pages/media/posts/4/gallery/interior-PROCEDURAL-2.png" ><img src="https://motrik.github.io/gh-pages/media/posts/4/gallery/interior-PROCEDURAL-2-thumbnail.png" alt="" width="768" height="553"></a></figure>
+<figure class="gallery__item"><a href="https://motrik.github.io/gh-pages/media/posts/4/gallery/interior-PROCEDURAL-3.png" ><img src="https://motrik.github.io/gh-pages/media/posts/4/gallery/interior-PROCEDURAL-3-thumbnail.png" alt="" width="768" height="553"></a></figure>
+<figure class="gallery__item"><a href="https://motrik.github.io/gh-pages/media/posts/4/gallery/interior-PROCEDURAL-5.png" ><img src="https://motrik.github.io/gh-pages/media/posts/4/gallery/interior-PROCEDURAL-5-thumbnail.png" alt="" width="768" height="553"></a></figure>
+<figure class="gallery__item"><a href="https://motrik.github.io/gh-pages/media/posts/4/gallery/interior-PROCEDURAL.png" ><img src="https://motrik.github.io/gh-pages/media/posts/4/gallery/interior-PROCEDURAL-thumbnail.png" alt="" width="768" height="638"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>THING 3</title>
+        <author>
+            <name>Tiago</name>
+        </author>
+        <link href="https://motrik.github.io/gh-pages/thing-3.html"/>
+        <id>https://motrik.github.io/gh-pages/thing-3.html</id>
+
+        <updated>2019-04-15T12:43:23+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://motrik.github.io/gh-pages/media/posts/3/auto-chair1.jpg" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://motrik.github.io/gh-pages/media/posts/3/gallery/auto-chair.jpg" ><img src="https://motrik.github.io/gh-pages/media/posts/3/gallery/auto-chair-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>THING 2</title>
+        <author>
+            <name>Tiago</name>
+        </author>
+        <link href="https://motrik.github.io/gh-pages/thing-2.html"/>
+        <id>https://motrik.github.io/gh-pages/thing-2.html</id>
+
+        <updated>2019-04-15T12:42:41+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://motrik.github.io/gh-pages/media/posts/2/lookandfeel2.png" alt="" />
+                <img class="post__image" src="https://motrik.github.io/gh-pages/media/posts/2/lookandfeel-copy.jpg" alt="" width="2500" height="3200">
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>THING 1</title>
         <author>
@@ -17,10 +118,11 @@
         <link href="https://motrik.github.io/gh-pages/thing-1.html"/>
         <id>https://motrik.github.io/gh-pages/thing-1.html</id>
 
-        <updated>2019-04-15T12:37:11+01:00</updated>
+        <updated>2019-04-15T22:53:07+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://motrik.github.io/gh-pages/media/posts/1/cone-posicao-inclinada-0.jpg" alt="" />
                 <div class="gallery"   >
 <figure class="gallery__item"><a href="https://motrik.github.io/gh-pages/media/posts/1/gallery/botao.70.jpg" ><img src="https://motrik.github.io/gh-pages/media/posts/1/gallery/botao.70-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://motrik.github.io/gh-pages/media/posts/1/gallery/botao.71.jpg" ><img src="https://motrik.github.io/gh-pages/media/posts/1/gallery/botao.71-thumbnail.jpg" alt="" width="768" height="614"></a></figure>
